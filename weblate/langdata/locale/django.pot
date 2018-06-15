@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate 3.0\n"
+"Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
+"POT-Creation-Date: 2018-06-09 14:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: weblate/langdata/languages.py:33
+msgid "Afar"
+msgstr ""
+
+#: weblate/langdata/languages.py:39
+msgid "Abkhazian"
+msgstr ""
+
+#: weblate/langdata/languages.py:45
+msgid "Acehnese"
+msgstr ""
+
+#: weblate/langdata/languages.py:51
+msgid "Acholi"
+msgstr ""
+
+#: weblate/langdata/languages.py:57
+msgid "Adyghe"
+msgstr ""
+
+#: weblate/langdata/languages.py:63
+msgid "Avestan"
+msgstr ""
+
+#: weblate/langdata/languages.py:69
+msgid "Afrikaans"
+msgstr ""
+
+#: weblate/langdata/languages.py:75
+msgid "Akan"
+msgstr ""
+
+#: weblate/langdata/languages.py:81
+msgid "Amharic"
+msgstr ""
+
+#: weblate/langdata/languages.py:87
+msgid "Aragonese"
+msgstr ""
+
+#: weblate/langdata/languages.py:93
+msgid "Angika"
+msgstr ""
+
+#: weblate/langdata/languages.py:99
+msgid "Arabic"
+msgstr ""
+
+#: weblate/langdata/languages.py:105
+msgid "Arabic (Algeria)"
+msgstr ""
+
+#: weblate/langdata/languages.py:111
+msgid "Arabic (Morocco)"
+msgstr ""
+
+#: weblate/langdata/languages.py:117
+msgid "Mapudungun"
+msgstr ""
+
+#: weblate/langdata/languages.py:123
+msgid "Najdi Arabic"
+msgstr ""
+
+#: weblate/langdata/languages.py:129
+msgid "Assamese"
+msgstr ""
+
+#: weblate/langdata/languages.py:135
+msgid "Asu"
+msgstr ""
+
+#: weblate/langdata/languages.py:141
+msgid "Asturian"
+msgstr ""
+
+#: weblate/langdata/languages.py:147
+msgid "Avaric"
+msgstr ""
+
+#: weblate/langdata/languages.py:153
+msgid "Aymará"
+msgstr ""
+
+#: weblate/langdata/languages.py:159
+msgid "Azerbaijani"
+msgstr ""
