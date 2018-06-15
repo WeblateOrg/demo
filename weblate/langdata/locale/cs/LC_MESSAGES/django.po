@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Michal Čihař <michal@cihar.com>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate 3.0\n"
+"Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
+"POT-Creation-Date: 2018-06-09 14:08+0000\n"
+"PO-Revision-Date: 2018-06-10 06:42+0000\n"
+"Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/weblate/languages/"
+"cs/>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 3.0\n"
+
+#: weblate/langdata/languages.py:33
+msgid "Afar"
+msgstr "Afarština"
+
+#: weblate/langdata/languages.py:39
+msgid "Abkhazian"
+msgstr "Abcházština"
+
+#: weblate/langdata/languages.py:45
+msgid "Acehnese"
+msgstr "Aceh"
+
+#: weblate/langdata/languages.py:51
+msgid "Acholi"
+msgstr "Acholština"
+
+#: weblate/langdata/languages.py:57
+msgid "Adyghe"
+msgstr "Adygejština"
+
+#: weblate/langdata/languages.py:63
+msgid "Avestan"
+msgstr "Avestánština"
+
+#: weblate/langdata/languages.py:69
+msgid "Afrikaans"
+msgstr "Afrikánština"
+
+#: weblate/langdata/languages.py:75
+msgid "Akan"
+msgstr "Akanština"
+
+#: weblate/langdata/languages.py:81
+msgid "Amharic"
+msgstr "Amharština"
+
+#: weblate/langdata/languages.py:87
+msgid "Aragonese"
+msgstr "Aragonština"
+
+#: weblate/langdata/languages.py:93
+msgid "Angika"
+msgstr "Angičtina"
+
+#: weblate/langdata/languages.py:99
+msgid "Arabic"
+msgstr "Arabština"
+
+#: weblate/langdata/languages.py:105
+msgid "Arabic (Algeria)"
+msgstr "Arabština (Alžírsko)"
+
+#: weblate/langdata/languages.py:111
+msgid "Arabic (Morocco)"
+msgstr "Arabština (Maroko)"
+
+#: weblate/langdata/languages.py:117
+msgid "Mapudungun"
+msgstr "Araukánština"
+
+#: weblate/langdata/languages.py:123
+msgid "Najdi Arabic"
+msgstr "Najdi Arabština"
+
+#: weblate/langdata/languages.py:129
+msgid "Assamese"
+msgstr "Ásámština"
+
+#: weblate/langdata/languages.py:135
+msgid "Asu"
+msgstr "asu"
+
+#: weblate/langdata/languages.py:141
+msgid "Asturian"
+msgstr "Asturština"
+
+#: weblate/langdata/languages.py:147
+msgid "Avaric"
+msgstr "Avarština"
+
+#: weblate/langdata/languages.py:153
+msgid "Aymará"
+msgstr "Ajmarština"
+
+#: weblate/langdata/languages.py:159
+msgid "Azerbaijani"
+msgstr "Ázerbájdžánština"

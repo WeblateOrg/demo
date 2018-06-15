@@ -1,0 +1,152 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate 3.0\n"
+"Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
+"POT-Creation-Date: 2018-06-09 14:08+0000\n"
+"PO-Revision-Date: 2018-05-14 09:38+0000\n"
+"Last-Translator: Varanka Zoltán <zvaranka60@gmail.com>\n"
+"Language-Team: Hungarian <https://hosted.weblate.org/projects/weblate/master/"
+"hu/>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.0-dev\n"
+
+#: weblate/templates/translation.html:45 weblate/trans/forms.py:1404
+msgid "Files"
+msgstr "Fájlok"
+
+#: weblate/templates/translation.html:58 weblate/templates/translation.html:207
+#: weblate/trans/models/change.py:205
+msgid "Automatic translation"
+msgstr "Automatikus fordítás"
+
+#: weblate/templates/translation.html:64 weblate/templates/translation.html:263
+#, fuzzy
+#| msgid "Add as translation"
+msgid "Add new translation string"
+msgstr "Hozzáadás fordításként"
+
+#: weblate/templates/translation.html:108 weblate/templates/widgets.html:56
+#: weblate/templates/widgets.html:64 weblate/templates/widgets.html:71
+#: weblate/templates/widgets.html:79
+msgid "Translation status"
+msgstr "Fordítás állapota"
+
+#: weblate/templates/translation.html:149
+#, python-format
+msgid "%(count)s word"
+msgid_plural "%(count)s words"
+msgstr[0] "%(count)s szó"
+msgstr[1] "%(count)s szó"
+
+#: weblate/templates/translation.html:156
+msgid "Other components"
+msgstr "Egyéb összetevők"
+
+#: weblate/templates/translation.html:175
+#: weblate/templates/unit-details.html:26
+msgid "Translation file"
+msgstr "Fordítás fájl"
+
+#: weblate/templates/translation.html:179
+msgid "Download"
+msgstr "Letöltés"
+
+#: weblate/templates/translation.html:196
+msgid "Browse all translation changes"
+msgstr "Minden fordítási módosítás tallózása"
+
+#: weblate/templates/translation.html:211
+msgid ""
+"Automatic translation takes existing translations in this project and "
+"applies them to the current component. It can be used to push translations "
+"to a different branch, to fix inconsistent translations or to translate a "
+"new component using translation memory."
+msgstr ""
+"Az automatikus fordítás megvizsgálja a már meglévő fordításokat ebben a "
+"projektben, és alkalmazza ezeket az adott összetevőkre. Segítségével a "
+"fordításokat különböző ágakra lehet kiterjeszteni. Ezzel javíthatók a "
+"következetlen fordítások és új összetevők fordíthatók a már elvégzett "
+"fordítási munka felhasználásával."
+
+#: weblate/templates/translation.html:212
+msgid ""
+"Automatic translation via machine translation uses active machine "
+"translation engines to get the best possible translations and applies them "
+"in this project."
+msgstr ""
+
+#: weblate/templates/translation.html:265
+msgid ""
+"You can add new translation string here, it will automatically appear in all "
+"translations."
+msgstr ""
+
+#: weblate/templates/translation.html:284
+#, fuzzy
+#| msgid ""
+#| "Uploaded file will be merged with current translation. In case you want "
+#| "to overwrite already translated strings, don't forget to enable it."
+msgid ""
+"The uploaded file will be merged with the current translation. In case you "
+"want to overwrite already translated strings, don't forget to enable it."
+msgstr ""
+"A feltöltött fájl összefésülésre kerül a jelenlegi fordítással. Ha szeretne "
+"felülírni már lefordított szövegeket, ne felejtse engedélyezni azt."
+
+#: weblate/templates/translation.html:286
+#, fuzzy
+#| msgid "Uploaded file will be merged with current translation."
+msgid "The uploaded file will be merged with the current translation."
+msgstr "A feltöltött fájl összefésülésre kerül a jelenlegi fordítással."
+
+#: weblate/templates/translation.html:312
+msgid ""
+"The fulltext search might not work properly as the fulltext index for this "
+"translation is not yet up to date."
+msgstr ""
+
+#: weblate/templates/translation.html:334
+#: weblate/templates/translation.html:381
+msgid "Review"
+msgstr "Felülvizsgálat"
+
+#: weblate/templates/translation.html:336
+msgid "Review translations touched by other users."
+msgstr "Fordítások felülvizsgálata, amikhez más felhasználók is hozzányúltak."
+
+#: weblate/templates/translation.html:340
+msgid "Start review"
+msgstr "Felülvizsgálat megkezdése"
+
+#: weblate/templates/translation.html:362
+msgid "Percent"
+msgstr "Százalék"
+
+#: weblate/templates/translation.html:369
+msgid "Total"
+msgstr "Összesen"
+
+#: weblate/templates/translation.html:387
+msgid "Failing check"
+msgstr "Sikertelen ellenőrzés"
+
+#: weblate/templates/translation.html:402
+msgid "Last activity"
+msgstr "Utolsó tevékenység"
+
+#: weblate/templates/translation.html:406
+msgid "Last change"
+msgstr "Utolsó változás"
+
+#: weblate/templates/translation.html:410
+msgid "Last author"
+msgstr "Utolsó szerző"

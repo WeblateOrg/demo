@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate 3.0\n"
+"Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
+"POT-Creation-Date: 2018-06-09 14:08+0000\n"
+"PO-Revision-Date: 2018-01-11 12:42+0000\n"
+"Last-Translator: Balázs Úr <urbalazs@gmail.com>\n"
+"Language-Team: Hungarian <https://hosted.weblate.org/projects/weblate/master/"
+"hu/>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
+
+#: weblate/langdata/languages.py:33
+msgid "Afar"
+msgstr "afar"
+
+#: weblate/langdata/languages.py:39
+msgid "Abkhazian"
+msgstr "abház"
+
+#: weblate/langdata/languages.py:45
+#, fuzzy
+#| msgid "Chinese"
+msgid "Acehnese"
+msgstr "Kínai"
+
+#: weblate/langdata/languages.py:51
+msgid "Acholi"
+msgstr "Acholi"
+
+#: weblate/langdata/languages.py:57
+msgid "Adyghe"
+msgstr ""
+
+#: weblate/langdata/languages.py:63
+msgid "Avestan"
+msgstr "avesztán"
+
+#: weblate/langdata/languages.py:69
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+#: weblate/langdata/languages.py:75
+msgid "Akan"
+msgstr "Akan"
+
+#: weblate/langdata/languages.py:81
+msgid "Amharic"
+msgstr "Amharic"
+
+#: weblate/langdata/languages.py:87
+msgid "Aragonese"
+msgstr "Aragóniai"
+
+#: weblate/langdata/languages.py:93
+msgid "Angika"
+msgstr "Angika"
+
+#: weblate/langdata/languages.py:99
+msgid "Arabic"
+msgstr "Arab"
+
+#: weblate/langdata/languages.py:105
+msgid "Arabic (Algeria)"
+msgstr "arab (Algéria)"
+
+#: weblate/langdata/languages.py:111
+msgid "Arabic (Morocco)"
+msgstr "arab (Marokkó)"
+
+#: weblate/langdata/languages.py:117
+msgid "Mapudungun"
+msgstr "Mapudungun"
+
+#: weblate/langdata/languages.py:123
+#, fuzzy
+#| msgid "Arabic"
+msgid "Najdi Arabic"
+msgstr "Arab"
+
+#: weblate/langdata/languages.py:129
+msgid "Assamese"
+msgstr "Asszámi"
+
+#: weblate/langdata/languages.py:135
+msgid "Asu"
+msgstr "asu"
+
+#: weblate/langdata/languages.py:141
+msgid "Asturian"
+msgstr "Bable (Asztúriai)"
+
+#: weblate/langdata/languages.py:147
+#, fuzzy
+#| msgid "Amharic"
+msgid "Avaric"
+msgstr "Amharic"
+
+#: weblate/langdata/languages.py:153
+msgid "Aymará"
+msgstr "Aymara"
+
+#: weblate/langdata/languages.py:159
+msgid "Azerbaijani"
+msgstr "Azeri"
