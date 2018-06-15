@@ -154,3 +154,7 @@ msgctxt ""
 "Question for a mathematics-based CAPTCHA, the %s is an arithmetic problem"
 msgid "What is %s?"
 msgstr ""
+
+#: weblate/checks/source.py:54
+msgid "The string uses three dots (...) instead of an ellipsis character (…)"
+msgstr ""
