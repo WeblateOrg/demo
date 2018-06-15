@@ -150,3 +150,10 @@ msgstr "Posledná zmena"
 #: weblate/templates/translation.html:410
 msgid "Last author"
 msgstr "Posledný autor"
+
+#: weblate/accounts/forms.py:450
+#, python-format
+msgctxt ""
+"Question for a mathematics-based CAPTCHA, the %s is an arithmetic problem"
+msgid "What is %s?"
+msgstr ""
