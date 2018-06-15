@@ -31,7 +31,7 @@ msgstr "Automatický překlad"
 
 #: weblate/templates/translation.html:64 weblate/templates/translation.html:263
 msgid "Add new translation string"
-msgstr "Přidat nový řetězec k překladu"
+msgstr "Add new translation string"
 
 #: weblate/templates/translation.html:108 weblate/templates/widgets.html:56
 #: weblate/templates/widgets.html:64 weblate/templates/widgets.html:71
@@ -62,7 +62,7 @@ msgstr "Stáhnout"
 
 #: weblate/templates/translation.html:196
 msgid "Browse all translation changes"
-msgstr "Procházet všechny změny v překladu"
+msgstr "Procházet všechny změny v překladu."
 
 #: weblate/templates/translation.html:211
 msgid ""
